@@ -17,7 +17,7 @@
       Recalculated PTV metrics for these strains are in the `summary_per_gene_dend.tsv` , `summary_per_variant_dend.tsv`, `summary_per_strain_dend.tsv` files.  
       Selected strains shown (red labels) also on the neighbour joining tree `nj.pdf` (to ensure that the simple hierarchical clustering works fine for this data).   
 
- * PTV summaries => `script.R`      
+ * PTV summaries => `script.R`  (uses TSV file created with the `make-table.sh` script and strains IDs file)      
 
 
 All files and scripts are in the `/mnt/qnap/projects/Yeast_ZGE/distances/` directory.
